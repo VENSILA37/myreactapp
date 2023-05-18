@@ -1,0 +1,58 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+  }
+ .label{
+    padding: 12px 12px 12px 0;
+  display: inline-block;
+  width: 100px;
+  margin-top: 25px;
+ }
+ .label1{
+    padding: 12px 12px 12px 0;
+  display: inline-block;
+  width: 100px;
+  margin-top: 15px;
+  margin-left: 20px;
+ }
+ input[type=text]
+  {
+  padding: 12px;
+ width: 265px;
+ border: 1px solid #ccc;
+ outline: none;
+  }
+  .buttonsub{
+    background-color: rgb(8, 6, 6);
+    border-radius: 14px;
+    color: white;
+    width: 100px;
+    box-shadow: none;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 9px;
+    margin-left:220px;
+    margin-top: 40px;
+  }
+.textarea3{
+    width: 150px;
+    padding: 70px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    outline: none;
+    text-align: start;
+}
+.about{
+    padding: 12px 12px 12px 0;
+   margin-top: 0px;
+ display: flex;
+ flex-direction: row;
+}
+.about1{
+    margin-left: 70px;
+}
+.about2{
+    margin-left: 107px;
+}

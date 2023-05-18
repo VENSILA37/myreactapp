@@ -1,0 +1,55 @@
+
+/*body{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button1{
+  background-color: black;
+  border-radius: 14px;
+  color: white;
+  
+  box-shadow: none;
+  border: none;
+  padding: 7px;
+  padding-left: 22px;
+  padding-right: 22px;
+  font-size: 9px;
+  margin-left:150px;
+  margin-top: 40px;
+}
+.label{
+  width:100px;
+ 
+    padding: 20px 0px 30px 25px;
+    display: inline-block;
+}
+.label1{
+ 
+ 
+    padding: 5px 25px 30px 0px;
+    display: inline-block;
+}
+.fna{
+  margin-left: 58px;
+}
+.textd{
+  display: flex;
+}
+ .textarea {
+  padding-right: 173px;
+  padding-bottom: 70px;
+  border: 1px solid rgb(173, 161, 161);
+  resize: none;
+}
+.information{
+  margin-top: 18px;
+}
+/*input[type=text]{
+  width: 300px;
+  padding: 17px;
+  border: 1px solid rgba(138, 124, 124, 0.822);
+  resize: vertical;
+}*/
+.button{
+  background-color: white;
+    border: none;
+}
